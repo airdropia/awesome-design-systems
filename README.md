@@ -11,6 +11,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ### Tags
 
 - Components: Contains coded patterns and examples.
+* [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 - Voice & Tone: Provides guidance on how language should be used.
 - Designers Kit: Includes a Sketch/Photoshop/Figma/etc. file for designers.
 - Source code: Publicly viewable source code
